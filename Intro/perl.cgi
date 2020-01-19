@@ -7,6 +7,6 @@ print "\nHello world.";
 $age = 25;             # An integer assignment
 $name = "John Paul";   # A string
 $salary = 1445.50;     # A floating point
-print "Age = $age\n";
-print "Name = $name\n";
+print "<br /> <span style='color:red'> Age = $age </span>\n";
+print "<br /> Name = $name\n";
 print "Salary = $salary\n";
