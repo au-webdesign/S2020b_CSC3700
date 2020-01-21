@@ -5,6 +5,7 @@
        print("<br /> <pre> "); print_r( $inCourse ); print("</pre>");
        exit;
     }
+
     print("MAde it this far  c=$inCourse");
     require_once ("course_CONFIG.php");
     if ( !isset( $course["$inCourse"])){
