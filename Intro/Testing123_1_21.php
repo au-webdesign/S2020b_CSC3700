@@ -11,6 +11,7 @@ require_once ("course_CONFIG.php");
             print "\n<option value='$key'> $key </option> ";
          }
         ?>
+
     </select>
 
    <input type="submit" value="Click me to start">
