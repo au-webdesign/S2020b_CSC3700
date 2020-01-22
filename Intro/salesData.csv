@@ -1,0 +1,44 @@
+Num,Date,Region,Person,Item,Count,Cost
+1,1/6/2014,East,Jones,Pencil,95,1.99
+2,1/23/2014,Central,Kivell,Binder,50,19.99
+3,2/9/2014,Central,Jardine,Pencil,36,4.99
+4,2/26/2014,Central,Gill,Pen,27,19.99
+5,3/15/2014,West,Sorvino,Pencil,56,2.99
+6,4/1/2014,East,Jones,Binder,60,4.99
+7,4/18/2014,Central,Andrews,Pencil,75,1.99
+8,5/5/2014,Central,Jardine,Pencil,90,4.99
+9,5/22/2014,West,Thompson,Pencil,32,1.99
+10,6/8/2014,East,Jones,Binder,60,8.99
+11,6/25/2014,Central,Morgan,Pencil,90,4.99
+12,7/12/2014,East,Howard,Binder,29,1.99
+13,7/29/2014,East,Parent,Binder,81,19.99
+14,8/15/2014,East,Jones,Pencil,35,4.99
+15,9/1/2014,Central,Smith,Desk,2,125
+16,9/18/2014,East,Jones,Pen Set,16,15.99
+17,10/5/2014,Central,Morgan,Binder,28,8.99
+18,10/22/2014,East,Jones,Pen,64,8.99
+19,11/8/2014,East,Parent,Pen,15,19.99
+20,11/25/2014,Central,Kivell,Pen Set,96,4.99
+21,12/12/2014,Central,Smith,Pencil,67,1.29
+22,12/29/2014,East,Parent,Pen Set,74,15.99
+23,1/15/2015,Central,Gill,Binder,46,8.99
+24,2/1/2015,Central,Smith,Binder,87,15
+25,2/18/2015,East,Jones,Binder,4,4.99
+26,3/7/2015,West,Sorvino,Binder,7,19.99
+27,3/24/2015,Central,Jardine,Pen Set,50,4.99
+28,4/10/2015,Central,Andrews,Pencil,66,1.99
+29,4/27/2015,East,Howard,Pen,96,4.99
+30,5/14/2015,Central,Gill,Pencil,53,1.29
+31,5/31/2015,Central,Gill,Binder,80,8.99
+32,6/17/2015,Central,Kivell,Desk,5,125
+33,7/4/2015,East,Jones,Pen Set,62,4.99
+34,7/21/2015,Central,Morgan,Pen Set,55,12.49
+35,8/7/2015,Central,Kivell,Pen Set,42,23.95
+36,8/24/2015,West,Sorvino,Desk,3,275
+37,9/10/2015,Central,Gill,Pencil,7,1.29
+38,9/27/2015,West,Sorvino,Pen,76,1.99
+39,10/14/2015,West,Thompson,Binder,57,19.99
+40,10/31/2015,Central,Andrews,Pencil,14,1.29
+41,11/17/2015,Central,Jardine,Binder,11,4.99
+42,12/4/2015,Central,Jardine,Binder,94,19.99
+43,12/21/2015,Central,Andrews,Binder,28,4.99
