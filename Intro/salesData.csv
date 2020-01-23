@@ -16,8 +16,8 @@ Num,Date,Region,Person,Item,Count,Cost
 15,9/1/2014,Central,Smith,Desk,2,125
 16,9/18/2014,East,Jones,Pen Set,16,15.99
 17,10/5/2014,Central,Morgan,Binder,28,8.99
-18,10/22/2014,East,Jones,Pen,64,8.99
-19,11/8/2014,East,Parent,Pen,15,19.99
+19,11/8/2014,East,Parent,Pen,15,19.9
+18,10/22/2014,East,Jones,Pen,64,8.999
 20,11/25/2014,Central,Kivell,Pen Set,96,4.99
 21,12/12/2014,Central,Smith,Pencil,67,1.29
 22,12/29/2014,East,Parent,Pen Set,74,15.99
